@@ -8,34 +8,21 @@
   "components": [
     {
       "type": "heading",
-      "text": "More to read"
-    },
-    {
-      "type": "small",
-      "title": "Learn about cats",
-      "url": "https://wikipedia.org/wiki/Cat",
-      "image": "assets/bookend_cats.jpg"
-    },
-    {
-      "type": "landscape",
-      "title": "Learn about border collies",
-      "url": "https://wikipedia.org/wiki/Border_Collie",
-      "image": "assets/bookend_dogs.jpg",
-      "category": "Dogs"
+      "text": "More Sections on Zeek"
     },
     {
       "type": "portrait",
-      "title": "Learn about macaws",
-      "url": "https://wikipedia.org/wiki/Macaw",
-      "image": "assets/bookend_birds.jpg",
-      "category": "birds"
+      "title": "Zeek's First Halloween",
+      "url": "https://thedales.me/halloween/",
+      "image": "https://tom.imgix.net/halloween.jpg?auto=format,compress&w=720&h=1280&fit=fill&fill=blur",
+      "category": "Halloween"
     },
     {
       "type": "cta-link",
       "links": [
         {
-          "text": "Learn more",
-          "url": "https://www.ampproject.org/stories/"
+          "text": "Go Back Home",
+          "url": "https://thedales.me/"
         }
       ]
     }
